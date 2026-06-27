@@ -1,10 +1,10 @@
-# Code of Conduct
+﻿# Code of Conduct
 
 ## Preamble
 
-InsightOS is committed to providing a welcoming, inclusive, and harassment-free experience for all community members, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, political belief, race, religion, sex, sexual identity and orientation, socioeconomic status, or technical ability.
+OpenDataAnalytics.AI is committed to providing a welcoming, inclusive, and harassment-free experience for all community members, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, political belief, race, religion, sex, sexual identity and orientation, socioeconomic status, or technical ability.
 
-This code of conduct outlines our expectations for participant behavior in the InsightOS community and the consequences for unacceptable behavior.
+This code of conduct outlines our expectations for participant behavior in the OpenDataAnalytics.AI community and the consequences for unacceptable behavior.
 
 ## Our Commitment
 
@@ -80,7 +80,7 @@ The following behaviors are considered unacceptable and will not be tolerated:
 
 If you witness or experience unacceptable behavior, please report it:
 
-**Email**: conduct@insightos.dev
+**Email**: conduct@OpenDataAnalytics.AI.dev
 
 **Include in your report:**
 - Description of the incident
@@ -110,14 +110,14 @@ Depending on the severity and nature of violations, consequences may include:
 
 ## Appeals
 
-If you believe a decision was made in error, you may appeal to conduct-appeals@insightos.dev within 7 days of notification. Your appeal will be reviewed by a different person or committee.
+If you believe a decision was made in error, you may appeal to conduct-appeals@OpenDataAnalytics.AI.dev within 7 days of notification. Your appeal will be reviewed by a different person or committee.
 
 ## Scope
 
 This code of conduct applies to:
 - GitHub repositories and discussions
 - Community forums and chat channels
-- Conferences and events organized by InsightOS
+- Conferences and events organized by OpenDataAnalytics.AI
 - Official social media accounts
 - Any other community spaces
 
@@ -133,8 +133,8 @@ This code of conduct is adapted from the Contributor Covenant and practices from
 
 ## Questions?
 
-For questions about this code of conduct, please email conduct@insightos.dev.
+For questions about this code of conduct, please email conduct@OpenDataAnalytics.AI.dev.
 
 ---
 
-Thank you for helping make InsightOS a welcoming community for everyone.
+Thank you for helping make OpenDataAnalytics.AI a welcoming community for everyone.

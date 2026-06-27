@@ -1,8 +1,8 @@
-# Security Policy
+﻿# Security Policy
 
 ## Overview
 
-Security is a top priority for InsightOS. This document describes our security policy, how to report vulnerabilities, and our commitment to protecting user data and systems.
+Security is a top priority for OpenDataAnalytics.AI. This document describes our security policy, how to report vulnerabilities, and our commitment to protecting user data and systems.
 
 ## Reporting Security Vulnerabilities
 
@@ -12,7 +12,7 @@ Security is a top priority for InsightOS. This document describes our security p
 
 ### Reporting Process
 
-1. **Email**: security@insightos.dev
+1. **Email**: security@opendataanalytics.ai
 2. **Include**:
    - Description of the vulnerability
    - Steps to reproduce
@@ -48,7 +48,7 @@ We will credit you as the discoverer unless you prefer anonymity.
 
 ### For Users
 
-- Keep InsightOS updated to the latest version
+- Keep OpenDataAnalytics.AI updated to the latest version
 - Use strong, unique passwords
 - Enable two-factor authentication when available
 - Never share API keys or credentials
@@ -295,9 +295,9 @@ Before each release:
 
 | Role | Email |
 |------|-------|
-| **Security Team** | security@insightos.dev |
-| **Incident Response** | incidents@insightos.dev |
-| **Compliance** | compliance@insightos.dev |
+| **Security Team** | security@opendataanalytics.ai |
+| **Incident Response** | incidents@OpenDataAnalytics.AI.dev |
+| **Compliance** | compliance@OpenDataAnalytics.AI.dev |
 
 ## Additional Resources
 
@@ -309,8 +309,8 @@ Before each release:
 
 ## Acknowledgments
 
-We thank the security community for their responsible disclosures and contributions to making InsightOS secure.
+We thank the security community for their responsible disclosures and contributions to making OpenDataAnalytics.AI secure.
 
 ---
 
-For security questions or concerns, contact security@insightos.dev
+For security questions or concerns, contact security@opendataanalytics.ai

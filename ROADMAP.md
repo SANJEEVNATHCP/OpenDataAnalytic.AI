@@ -1,6 +1,6 @@
-# Product Roadmap
+﻿# Product Roadmap
 
-InsightOS roadmap outlines our vision for the platform over the next 12-18 months. This roadmap is a living document and may be updated based on community feedback and market needs.
+OpenDataAnalytics.AI roadmap outlines our vision for the platform over the next 12-18 months. This roadmap is a living document and may be updated based on community feedback and market needs.
 
 ## Vision
 
@@ -338,9 +338,9 @@ Our roadmap is guided by:
 ## How to Influence the Roadmap
 
 ### Share Ideas
-- [GitHub Discussions](https://github.com/insightos/insightos/discussions)
-- [Feature Request Issues](https://github.com/insightos/insightos/issues)
-- community@insightos.dev
+- [GitHub Discussions](https://github.com/SANJEEVNATHCP/OpenDataAnalytic.AI/discussions)
+- [Feature Request Issues](https://github.com/SANJEEVNATHCP/OpenDataAnalytic.AI/issues)
+- community@OpenDataAnalytics.AI.dev
 
 ### Contribute
 - Submit PRs for roadmap items
@@ -369,15 +369,15 @@ Our roadmap is guided by:
 
 ## Repository
 
-- **Main Repository**: [github.com/insightos/insightos](https://github.com/insightos/insightos)
-- **Issues**: [Feature Tracking](https://github.com/insightos/insightos/issues)
-- **Discussions**: [Community Input](https://github.com/insightos/insightos/discussions)
+- **Main Repository**: [github.com/OpenDataAnalytics.AI/OpenDataAnalytics.AI](https://github.com/SANJEEVNATHCP/OpenDataAnalytic.AI)
+- **Issues**: [Feature Tracking](https://github.com/SANJEEVNATHCP/OpenDataAnalytic.AI/issues)
+- **Discussions**: [Community Input](https://github.com/SANJEEVNATHCP/OpenDataAnalytic.AI/discussions)
 
 ## Questions?
 
-- 📧 Email: product@insightos.dev
-- 💬 Discussions: [GitHub Discussions](https://github.com/insightos/insightos/discussions)
-- 🐦 Twitter: [@insightos](https://twitter.com/insightos)
+- 📧 Email: product@OpenDataAnalytics.AI.dev
+- 💬 Discussions: [GitHub Discussions](https://github.com/SANJEEVNATHCP/OpenDataAnalytic.AI/discussions)
+- 🐦 Twitter: [@OpenDataAnalytics.AI](https://twitter.com/OpenDataAnalytics)
 
 ---
 

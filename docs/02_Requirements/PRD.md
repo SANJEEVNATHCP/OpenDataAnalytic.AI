@@ -1,8 +1,8 @@
-# Product Requirements Document (PRD)
+﻿# Product Requirements Document (PRD)
 
 ## Executive Summary
 
-InsightOS is an AI-powered analytics workspace that unifies the complete analytics lifecycle (data ingestion through reporting) into a single platform. This PRD defines the product strategy, features, and requirements for version 1.0 release.
+OpenDataAnalytics.AI is an AI-powered analytics workspace that unifies the complete analytics lifecycle (data ingestion through reporting) into a single platform. This PRD defines the product strategy, features, and requirements for version 1.0 release.
 
 ## Vision
 
@@ -10,9 +10,9 @@ Make analytics accessible and powerful for everyone by providing an intelligent 
 
 ## Product Definition
 
-### What is InsightOS?
+### What is OpenDataAnalytics.AI?
 
-InsightOS is an analytics copilot that:
+OpenDataAnalytics.AI is an analytics copilot that:
 - Ingests data from multiple sources
 - Analyzes and profiles data automatically
 - Suggests data quality improvements
@@ -26,7 +26,7 @@ InsightOS is an analytics copilot that:
 
 ### What Makes It Different?
 
-| Feature | InsightOS | Power BI | Tableau | Snowflake |
+| Feature | OpenDataAnalytics.AI | Power BI | Tableau | Snowflake |
 |---------|-----------|---------|--------|-----------|
 | **AI Throughout** | ✅ | ❌ | ❌ | ❌ |
 | **Desktop-First** | ✅ | ❌ | ❌ | ❌ |
@@ -517,7 +517,7 @@ InsightOS is an analytics copilot that:
 
 ## Conclusion
 
-InsightOS represents a fundamental shift in how analytics is performed. By combining AI assistance with human control, we're creating the future of analytics—where sophisticated insights are accessible to everyone.
+OpenDataAnalytics.AI represents a fundamental shift in how analytics is performed. By combining AI assistance with human control, we're creating the future of analytics—where sophisticated insights are accessible to everyone.
 
 ---
 

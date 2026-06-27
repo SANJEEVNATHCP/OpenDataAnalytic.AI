@@ -1,6 +1,6 @@
-# InsightOS Documentation
+﻿# OpenDataAnalytics.AI Documentation
 
-Welcome to the complete InsightOS documentation. This documentation is designed for developers, architects, product managers, QA engineers, DevOps engineers, and open source contributors.
+Welcome to the complete OpenDataAnalytics.AI documentation. This documentation is designed for developers, architects, product managers, QA engineers, DevOps engineers, and open source contributors.
 
 ## Quick Navigation
 
@@ -12,7 +12,7 @@ Welcome to the complete InsightOS documentation. This documentation is designed 
 ### 📚 Documentation Index
 
 #### 1. Product Documentation
-Learn about InsightOS vision, strategy, and product direction.
+Learn about OpenDataAnalytics.AI vision, strategy, and product direction.
 - **[Vision](01_Product/Vision.md)** - Strategic vision and long-term goals
 - **[Mission](01_Product/Mission.md)** - Core mission and values
 - **[Objectives](01_Product/Objectives.md)** - Product objectives and goals
@@ -150,9 +150,9 @@ Visual representations.
 
 ## Overview
 
-### What is InsightOS?
+### What is OpenDataAnalytics.AI?
 
-InsightOS is an AI-powered analytics workspace that unifies the entire analytics lifecycle:
+OpenDataAnalytics.AI is an AI-powered analytics workspace that unifies the entire analytics lifecycle:
 - Data ingestion
 - Data cleaning
 - Data transformation
@@ -163,7 +163,7 @@ InsightOS is an AI-powered analytics workspace that unifies the entire analytics
 - Governance
 - Knowledge management
 
-### Why InsightOS?
+### Why OpenDataAnalytics.AI?
 
 Unlike traditional dashboard tools:
 - **AI-First**: Intelligent assistance throughout the analytics workflow
@@ -284,9 +284,9 @@ We welcome documentation improvements:
 ## Support
 
 - 📖 Full documentation in this folder
-- 💬 [GitHub Discussions](https://github.com/insightos/insightos/discussions)
-- 🐛 [Issue Tracker](https://github.com/insightos/insightos/issues)
-- 📧 [Email](support@insightos.dev)
+- 💬 [GitHub Discussions](https://github.com/SANJEEVNATHCP/OpenDataAnalytic.AI/discussions)
+- 🐛 [Issue Tracker](https://github.com/SANJEEVNATHCP/OpenDataAnalytic.AI/issues)
+- 📧 [Email](support@opendataanalytics.ai)
 
 ## Documentation Status
 

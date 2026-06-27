@@ -1,8 +1,8 @@
-# Coding Standards
+﻿# Coding Standards
 
 ## Overview
 
-InsightOS maintains high code quality standards across all languages and components. These standards ensure consistency, maintainability, and reliability.
+OpenDataAnalytics.AI maintains high code quality standards across all languages and components. These standards ensure consistency, maintainability, and reliability.
 
 ## TypeScript/JavaScript Standards
 

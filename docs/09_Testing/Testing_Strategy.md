@@ -1,8 +1,8 @@
-# Testing Strategy
+﻿# Testing Strategy
 
 ## Executive Summary
 
-InsightOS implements a comprehensive testing strategy across unit, integration, AI, performance, and security testing to ensure reliability, quality, and safety. Target coverage is 85%+ for code and 100% for critical paths.
+OpenDataAnalytics.AI implements a comprehensive testing strategy across unit, integration, AI, performance, and security testing to ensure reliability, quality, and safety. Target coverage is 85%+ for code and 100% for critical paths.
 
 ## Testing Philosophy
 

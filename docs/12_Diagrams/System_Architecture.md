@@ -1,4 +1,4 @@
-# System Architecture Diagrams
+﻿# System Architecture Diagrams
 
 ## High-Level Architecture
 

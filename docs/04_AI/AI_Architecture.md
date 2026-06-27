@@ -1,8 +1,8 @@
-# AI Architecture
+﻿# AI Architecture
 
 ## Executive Summary
 
-InsightOS implements a human-in-the-loop AI architecture where specialized agents assist users throughout the analytics lifecycle. The system is designed for explainability, controllability, and safety, with clear decision flows and human approval gates.
+OpenDataAnalytics.AI implements a human-in-the-loop AI architecture where specialized agents assist users throughout the analytics lifecycle. The system is designed for explainability, controllability, and safety, with clear decision flows and human approval gates.
 
 ## AI System Overview
 
@@ -419,7 +419,7 @@ def select_model(task: str, complexity: str) -> LLM:
 ### Example Prompt
 
 ```
-You are a data analyst AI assistant for InsightOS.
+You are a data analyst AI assistant for OpenDataAnalytics.AI.
 
 Your task is to analyze a dataset and identify data quality issues.
 

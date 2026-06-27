@@ -1,12 +1,12 @@
-# InsightOS
+﻿# OpenDataAnalytics.AI
 
 **AI-Powered Analytics Copilot**
 
-InsightOS is an enterprise-grade analytics workspace that unifies data ingestion, cleaning, transformation, visualization, AI-assisted analytics, reporting, collaboration, governance, and knowledge management into a single platform.
+OpenDataAnalytics.AI is an enterprise-grade analytics workspace that unifies data ingestion, cleaning, transformation, visualization, AI-assisted analytics, reporting, collaboration, governance, and knowledge management into a single platform.
 
 ## Overview
 
-InsightOS empowers analysts, business users, researchers, and organizations to perform end-to-end analytics without switching between multiple tools. Unlike traditional dashboard tools like Power BI or Tableau, InsightOS is an **AI Copilot** that assists users throughout the complete analytics lifecycle while keeping humans in control.
+OpenDataAnalytics.AI empowers analysts, business users, researchers, and organizations to perform end-to-end analytics without switching between multiple tools. Unlike traditional dashboard tools like Power BI or Tableau, OpenDataAnalytics.AI is an **AI Copilot** that assists users throughout the complete analytics lifecycle while keeping humans in control.
 
 ### Core Philosophy
 
@@ -58,8 +58,8 @@ InsightOS empowers analysts, business users, researchers, and organizations to p
 
 ```bash
 # Clone the repository
-git clone https://github.com/insightos/insightos.git
-cd insightos
+git clone https://github.com/SANJEEVNATHCP/OpenDataAnalytic.AI.git
+cd OpenDataAnalytics.AI
 
 # Install dependencies
 npm install
@@ -101,7 +101,7 @@ Complete documentation is available in the `docs/` directory:
 
 ```
 ┌─────────────────────────────────────────────────────┐
-│              InsightOS Desktop (Tauri)              │
+│              OpenDataAnalytics.AI Desktop (Tauri)              │
 │  ┌──────────────────────────────────────────────┐   │
 │  │         React Frontend (TypeScript)          │   │
 │  │  - Dashboard | Projects | Dataset Manager   │   │
@@ -126,7 +126,7 @@ Complete documentation is available in the `docs/` directory:
 
 ## AI Agents
 
-InsightOS includes specialized AI agents for different analytics tasks:
+OpenDataAnalytics.AI includes specialized AI agents for different analytics tasks:
 
 | Agent | Responsibility |
 |-------|-----------------|
@@ -180,17 +180,17 @@ We welcome contributions from developers, designers, data scientists, and produc
 - Review [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
 
 ### For Community
-- Join our [GitHub Discussions](https://github.com/insightos/insightos/discussions)
-- Report issues on [GitHub Issues](https://github.com/insightos/insightos/issues)
-- Follow us on [Twitter/X](https://twitter.com/insightos)
+- Join our [GitHub Discussions](https://github.com/SANJEEVNATHCP/OpenDataAnalytic.AI/discussions)
+- Report issues on [GitHub Issues](https://github.com/SANJEEVNATHCP/OpenDataAnalytic.AI/issues)
+- Follow us on [Twitter/X](https://twitter.com/OpenDataAnalytics)
 
 ## License
 
-InsightOS is released under the [MIT License](LICENSE).
+OpenDataAnalytics.AI is released under the [MIT License](LICENSE).
 
 ## Security
 
-If you discover a security vulnerability, please email security@insightos.dev instead of using the issue tracker. See [SECURITY.md](SECURITY.md) for details.
+If you discover a security vulnerability, please email security@opendataanalytics.ai instead of using the issue tracker. See [SECURITY.md](SECURITY.md) for details.
 
 ## Roadmap
 
@@ -212,10 +212,10 @@ See [ROADMAP.md](ROADMAP.md) for detailed timeline.
 ## Support
 
 - 📖 **Documentation**: [docs/](docs/)
-- 💬 **Community**: [GitHub Discussions](https://github.com/insightos/insightos/discussions)
-- 🐛 **Issues**: [GitHub Issues](https://github.com/insightos/insightos/issues)
-- 📧 **Email**: support@insightos.dev
+- 💬 **Community**: [GitHub Discussions](https://github.com/SANJEEVNATHCP/OpenDataAnalytic.AI/discussions)
+- 🐛 **Issues**: [GitHub Issues](https://github.com/SANJEEVNATHCP/OpenDataAnalytic.AI/issues)
+- 📧 **Email**: support@opendataanalytics.ai
 
 ---
 
-**InsightOS** - Making analytics accessible to everyone.
+**OpenDataAnalytics.AI** - Making analytics accessible to everyone.

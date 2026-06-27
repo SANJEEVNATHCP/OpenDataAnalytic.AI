@@ -1,8 +1,8 @@
-# Database Design
+﻿# Database Design
 
 ## Executive Summary
 
-InsightOS uses SQLite as the default database with support for PostgreSQL in enterprise deployments. The database design is normalized, scalable, and supports complex analytics queries with audit trails and version control.
+OpenDataAnalytics.AI uses SQLite as the default database with support for PostgreSQL in enterprise deployments. The database design is normalized, scalable, and supports complex analytics queries with audit trails and version control.
 
 ## Database Architecture
 
@@ -19,13 +19,13 @@ InsightOS uses SQLite as the default database with support for PostgreSQL in ent
 
 ```python
 # Desktop/Local
-DATABASE_URL = "sqlite:///insightos.db"
+DATABASE_URL = "sqlite:///OpenDataAnalytics.AI.db"
 
 # Self-hosted
-DATABASE_URL = "postgresql://user:password@localhost/insightos"
+DATABASE_URL = "postgresql://user:password@localhost/OpenDataAnalytics.AI"
 
 # Cloud
-DATABASE_URL = "postgresql://user:password@cloud-host/insightos"
+DATABASE_URL = "postgresql://user:password@cloud-host/OpenDataAnalytics.AI"
 ```
 
 ## Database Schema Overview

@@ -1,8 +1,8 @@
-# User Personas
+﻿# User Personas
 
 ## Overview
 
-InsightOS serves diverse user groups with different needs, skills, and workflows. Understanding these personas guides product decisions and feature prioritization.
+OpenDataAnalytics.AI serves diverse user groups with different needs, skills, and workflows. Understanding these personas guides product decisions and feature prioritization.
 
 ## Persona 1: Data Analyst - Sarah
 
@@ -97,7 +97,7 @@ InsightOS serves diverse user groups with different needs, skills, and workflows
 - Share findings
 
 ### Success Metrics
-- 5+ publications using InsightOS
+- 5+ publications using OpenDataAnalytics.AI
 - 100K+ dataset analysis
 - Active community contributor
 
@@ -315,7 +315,7 @@ Week 2: Sharing
 
 ```
 First Day
-├─ Opening InsightOS
+├─ Opening OpenDataAnalytics.AI
 ├─ Sees dashboard
 ├─ Understands KPIs
 └─ Bookmarks dashboard
@@ -440,7 +440,7 @@ Month 1
 - Monthly frequency: 5-10 days
 - Session duration: 15-20 minutes
 - Feature usage: Dashboards, Reports
-- Success indicator: Decisions made using InsightOS
+- Success indicator: Decisions made using OpenDataAnalytics.AI
 
 ### Alex (Researcher)
 - Monthly frequency: 10+ days

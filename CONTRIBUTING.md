@@ -1,6 +1,6 @@
-# Contributing to InsightOS
+﻿# Contributing to OpenDataAnalytics.AI
 
-Thank you for your interest in contributing to InsightOS. This document provides guidelines and instructions for contributing to the project.
+Thank you for your interest in contributing to OpenDataAnalytics.AI. This document provides guidelines and instructions for contributing to the project.
 
 ## Table of Contents
 
@@ -43,8 +43,8 @@ We welcome contributions in many forms:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/insightos/insightos.git
-cd insightos
+git clone https://github.com/SANJEEVNATHCP/OpenDataAnalytic.AI.git
+cd OpenDataAnalytics.AI
 ```
 
 ### Frontend Setup
@@ -111,7 +111,7 @@ alembic upgrade head
 
 ### Finding Issues
 
-1. Check [open issues](https://github.com/insightos/insightos/issues)
+1. Check [open issues](https://github.com/SANJEEVNATHCP/OpenDataAnalytic.AI/issues)
 2. Look for issues labeled `good-first-issue` or `help-wanted`
 3. Read the issue description and comments
 4. Comment to claim the issue before starting work
@@ -406,9 +406,9 @@ Full error logs/stack traces
 ### Getting Help
 
 - Check [documentation](docs/)
-- Search [GitHub Discussions](https://github.com/insightos/insightos/discussions)
+- Search [GitHub Discussions](https://github.com/SANJEEVNATHCP/OpenDataAnalytic.AI/discussions)
 - Ask in issue comments
-- Email support@insightos.dev
+- Email support@opendataanalytics.ai
 
 ### Contributing Documentation
 
@@ -428,9 +428,9 @@ Full error logs/stack traces
 ## Questions?
 
 For questions about contributing:
-- Email: contributors@insightos.dev
-- GitHub Discussions: [Community](https://github.com/insightos/insightos/discussions)
+- Email: contributors@OpenDataAnalytics.AI.dev
+- GitHub Discussions: [Community](https://github.com/SANJEEVNATHCP/OpenDataAnalytic.AI/discussions)
 
 ---
 
-Thank you for contributing to InsightOS!
+Thank you for contributing to OpenDataAnalytics.AI!

@@ -1,4 +1,4 @@
-# InsightOS Documentation Index
+﻿# OpenDataAnalytics.AI Documentation Index
 
 Complete documentation reference for developers, architects, product managers, and contributors.
 
@@ -318,10 +318,10 @@ Documentation improvements are always welcome:
 ## Version Information
 
 - **Documentation Version**: 1.0
-- **InsightOS Version**: 1.0.0
+- **OpenDataAnalytics.AI Version**: 1.0.0
 - **Last Updated**: December 2024
 - **Next Review**: March 2025
 
 ---
 
-**Questions?** Check the [README.md](../README.md) or open an issue on [GitHub](https://github.com/insightos/insightos/issues).
+**Questions?** Check the [README.md](../README.md) or open an issue on [GitHub](https://github.com/SANJEEVNATHCP/OpenDataAnalytic.AI/issues).

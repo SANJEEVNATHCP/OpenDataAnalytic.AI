@@ -1,6 +1,6 @@
-# Changelog
+﻿# Changelog
 
-All notable changes to InsightOS are documented in this file.
+All notable changes to OpenDataAnalytics.AI are documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
@@ -247,9 +247,9 @@ See [ROADMAP.md](ROADMAP.md) for detailed roadmap.
 ## Support
 
 - 📖 [Documentation](docs/)
-- 💬 [GitHub Discussions](https://github.com/insightos/insightos/discussions)
-- 🐛 [Issue Tracker](https://github.com/insightos/insightos/issues)
-- 📧 [Email Support](support@insightos.dev)
+- 💬 [GitHub Discussions](https://github.com/SANJEEVNATHCP/OpenDataAnalytic.AI/discussions)
+- 🐛 [Issue Tracker](https://github.com/SANJEEVNATHCP/OpenDataAnalytic.AI/issues)
+- 📧 [Email Support](support@opendataanalytics.ai)
 
 ## Version History
 
@@ -261,5 +261,5 @@ See [ROADMAP.md](ROADMAP.md) for detailed roadmap.
 
 ---
 
-[Unreleased]: https://github.com/insightos/insightos/compare/v1.0.0...main
-[1.0.0]: https://github.com/insightos/insightos/releases/tag/v1.0.0
+[Unreleased]: https://github.com/SANJEEVNATHCP/OpenDataAnalytic.AI/compare/v1.0.0...main
+[1.0.0]: https://github.com/SANJEEVNATHCP/OpenDataAnalytic.AI/releases/tag/v1.0.0

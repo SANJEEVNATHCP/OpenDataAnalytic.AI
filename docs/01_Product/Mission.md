@@ -1,4 +1,4 @@
-# Mission Statement
+﻿# Mission Statement
 
 ## Our Mission
 
@@ -244,7 +244,7 @@ We promise to operate with:
 
 ## Conclusion
 
-InsightOS is more than a product—it's a commitment to transforming how people and organizations work with data. Our mission drives everything we do, from product decisions to community engagement to organizational culture.
+OpenDataAnalytics.AI is more than a product—it's a commitment to transforming how people and organizations work with data. Our mission drives everything we do, from product decisions to community engagement to organizational culture.
 
 We believe analytics should be intelligent, human-centered, accessible, and private. We're building the platform to prove it.
 

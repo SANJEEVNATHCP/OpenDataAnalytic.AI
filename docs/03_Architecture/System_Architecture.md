@@ -1,14 +1,14 @@
-# System Architecture
+﻿# System Architecture
 
 ## Executive Summary
 
-InsightOS is a distributed, modular system designed for scalability, extensibility, and performance. The architecture separates concerns into frontend (Tauri desktop), backend (FastAPI), database layer, and AI services, with clear interfaces between components.
+OpenDataAnalytics.AI is a distributed, modular system designed for scalability, extensibility, and performance. The architecture separates concerns into frontend (Tauri desktop), backend (FastAPI), database layer, and AI services, with clear interfaces between components.
 
 ## High-Level Architecture
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│              InsightOS Desktop Application               │
+│              OpenDataAnalytics.AI Desktop Application               │
 │                   (Tauri + React)                        │
 │  ┌──────────────────────────────────────────────────┐   │
 │  │         React Frontend (TypeScript)              │   │

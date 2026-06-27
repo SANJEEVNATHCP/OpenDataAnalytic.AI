@@ -1,15 +1,15 @@
-# REST API Documentation
+﻿# REST API Documentation
 
 ## Overview
 
-The InsightOS REST API provides programmatic access to all platform functionality. The API is designed to be RESTful, following standard HTTP conventions and returning JSON responses.
+The OpenDataAnalytics.AI REST API provides programmatic access to all platform functionality. The API is designed to be RESTful, following standard HTTP conventions and returning JSON responses.
 
 ## API Fundamentals
 
 ### Base URL
 
 - **Development**: `http://localhost:8000/api/v1`
-- **Production**: `https://api.insightos.dev/v1`
+- **Production**: `https://api.OpenDataAnalytics.AI.dev/v1`
 - **Self-Hosted**: `https://your-domain.com/api/v1`
 
 ### API Version
@@ -40,7 +40,7 @@ X-RateLimit-Reset: 1640995200
 
 ```bash
 curl -H "Authorization: Bearer YOUR_JWT_TOKEN" \
-  https://api.insightos.dev/v1/projects
+  https://api.OpenDataAnalytics.AI.dev/v1/projects
 ```
 
 **Obtaining a Token**:
@@ -65,7 +65,7 @@ Response:
 
 ```bash
 curl -H "X-API-Key: YOUR_API_KEY" \
-  https://api.insightos.dev/v1/projects
+  https://api.OpenDataAnalytics.AI.dev/v1/projects
 ```
 
 #### 3. OAuth2
@@ -647,16 +647,16 @@ GET /api/v1/operations/{operation_id}/result
 ## SDK & Client Libraries
 
 ### Available SDKs
-- Python: `pip install insightos-sdk`
-- JavaScript/TypeScript: `npm install @insightos/sdk`
-- Java: `com.insightos:insightos-sdk`
-- Go: `github.com/insightos/go-sdk`
+- Python: `pip install OpenDataAnalytics.AI-sdk`
+- JavaScript/TypeScript: `npm install @OpenDataAnalytics.AI/sdk`
+- Java: `com.OpenDataAnalytics.AI:OpenDataAnalytics.AI-sdk`
+- Go: `github.com/OpenDataAnalytics.AI/go-sdk`
 
 ### Python Example
 ```python
-from insightos import InsightOS
+from OpenDataAnalytics.AI import OpenDataAnalytics.AI
 
-client = InsightOS(api_key="your_api_key")
+client = OpenDataAnalytics.AI(api_key="your_api_key")
 
 # List projects
 projects = client.projects.list()

@@ -1,8 +1,8 @@
-# Security Architecture
+﻿# Security Architecture
 
 ## Executive Summary
 
-InsightOS implements defense-in-depth security architecture with multiple layers of protection including authentication, authorization, encryption, audit logging, and continuous monitoring.
+OpenDataAnalytics.AI implements defense-in-depth security architecture with multiple layers of protection including authentication, authorization, encryption, audit logging, and continuous monitoring.
 
 ## Security Principles
 
@@ -60,7 +60,7 @@ User → Credentials → Hash & Compare → JWT Token
 ```
 User → Redirect to OAuth Provider → Provider Authenticates
     ↓
-User → Returns to InsightOS with Auth Code
+User → Returns to OpenDataAnalytics.AI with Auth Code
     ↓
 Backend → Exchange Code for Token
     ↓
